@@ -10,8 +10,8 @@ List of resources I referenced at my Experience Makers talk on 8.23.18
 [Abstract](https://www.goabstract.com/) - Version control for Sketch files<br />
 [Zeplin](https://zeplin.io/) - Annotate/Spec designs before handing off to a developer<br />
 [React SketchApp from Airbnb](http://airbnb.io/react-sketchapp/) - Render React components in a Sketch file<br />
-[HTML (React/System Agnostic) -> Sketch App](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526) - Render system-agnostic code components in a Sketch file (Github Repo)<br />
-[Sketch -> React Components](https://medium.com/tictail/code-with-design-how-we-built-a-tool-to-export-react-prototypes-from-sketch-c8d0c23e8126) - Create React components from objects in Sketch<br />
+[HTML SketchApp](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526) - Render system-agnostic code components in a Sketch file (Github Repo)<br />
+[Sketch to React Components](https://medium.com/tictail/code-with-design-how-we-built-a-tool-to-export-react-prototypes-from-sketch-c8d0c23e8126) - Create React components from objects in Sketch<br />
 
 
 ## Additional Reading
