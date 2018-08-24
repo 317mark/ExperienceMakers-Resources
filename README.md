@@ -1,8 +1,8 @@
 # ExperienceMakers-Resources
 List of resources I referenced at my Experience Makers talk on 8.23.18
 
-Tools
-[Sketch](https://www.sketchapp.com/)
+##Tools
+<p>[Sketch](https://www.sketchapp.com/)</p>
 Framer X
 Figma
 UXPin
@@ -13,7 +13,7 @@ React SketchApp from Airbnb - Render React components in a Sketch file
 HTML (React/System Agnostic) -> Sketch App - Render system-agnostic code components in a Sketch file (Github Repo)
 Sketch -> React Components - Create React components from objects in Sketch
 
-Additional Reading
+##Additional Reading
 Airbnb - The Way We Build
 Design Systems Handbook
 Sketch’s Open File Format
@@ -22,6 +22,6 @@ Automatically Generating Code from Wireframes at Airbnb
 Creating a Product Design System in Sketch
 Salesforce Living Design System
 
-Tutorials
+##Tutorials
 LevelUp Tutorials
 Udemy courses on React
